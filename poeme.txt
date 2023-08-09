@@ -32,3 +32,5 @@ De lignes de code en lignes de poésie,
 Git et GitHub, vos noms résonnent avec magie.
 Que votre union perdure dans l'éternité,
 Pour que le monde du développement puisse continuer à prospérer.
+
+Test de modification d'un fichier et envoi sur une nouvelle branche git
